@@ -1,0 +1,8 @@
+/Users/auser/Development/obj-c/mine/EditingBay/MusicPlayer.m: In function '-[MusicPlayer playCurrentTrack]':
+/Users/auser/Development/obj-c/mine/EditingBay/MusicPlayer.m:16: error: '_movie' undeclared (first use in this function)
+/Users/auser/Development/obj-c/mine/EditingBay/MusicPlayer.m:16: error: (Each undeclared identifier is reported only once
+/Users/auser/Development/obj-c/mine/EditingBay/MusicPlayer.m:16: error: for each function it appears in.)
+/Users/auser/Development/obj-c/mine/EditingBay/MusicPlayer.m:21: error: '_urls' undeclared (first use in this function)
+/Users/auser/Development/obj-c/mine/EditingBay/MusicPlayer.m:21: error: '_currentPlayingIndex' undeclared (first use in this function)
+/Users/auser/Development/obj-c/mine/EditingBay/MusicPlayer.m:27: error: 'QTMovie' undeclared (first use in this function)
+/Users/auser/Development/obj-c/mine/EditingBay/MusicPlayer.m:42: error: '_volume' undeclared (first use in this function)
